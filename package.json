@@ -1,0 +1,23 @@
+{
+  "name": "@zzzzbov/create-new",
+  "version": "1.0.0",
+  "description": "create-new is a file generation utility for quickly creating files from a template.",
+  "main": "index.js",
+  "bin": {
+    "create-new": "./index.js",
+    "new": "./index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzzBov/create-new.git"
+  },
+  "keywords": [],
+  "author": "zzzzBov",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/zzzzBov/create-new/issues"
+  },
+  "homepage": "https://github.com/zzzzBov/create-new#readme"
+}
