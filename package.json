@@ -4,8 +4,8 @@
   "description": "create-new is a file generation utility for quickly creating files from a template.",
   "main": "index.js",
   "bin": {
-    "create-new": "./index.js",
-    "new": "./index.js"
+    "create-new": "index.js",
+    "new": "index.js"
   },
   "scripts": {},
   "repository": {
