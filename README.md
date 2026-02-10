@@ -297,6 +297,16 @@ The PascalCased version of the name with path characters (`/` and `\`) preserved
 "Example Component/Sub Component" becomes "ExampleComponent/SubComponent"
 
 </dd>
+<dt>
+
+`__NOW__`
+
+</dt>
+<dd>
+
+The current date & time in ISO-8601 format.
+
+</dd>
 </dl>
 
 #### Built-in Template
